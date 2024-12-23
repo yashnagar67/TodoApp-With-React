@@ -1,0 +1,20 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+/* styles.css or Tailwind configuration */
+.font-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.font-body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+.font-ui {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
